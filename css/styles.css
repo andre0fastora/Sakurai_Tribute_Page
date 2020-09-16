@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+#title-container {
+    background-color: RGBA(223,42, 42, .40);
+    text-align: center;
+    margin-top: 1%;
+    padding: 2em;
+    
+}
+
+#img-div {
+    text-align: center;
+}
+
+#image {
+    max-width: 75%;
+    height: auto;
+    display: block;
+    margin: auto;
+    
+
+    
+}
+
+
+
+#tribute-info {
+    background-color: RGBA(223,42, 42, .40);
+}
+
